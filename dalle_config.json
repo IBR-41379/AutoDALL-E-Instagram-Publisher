@@ -1,0 +1,7 @@
+{
+  "use_config": true,
+  "style": "vivid",
+  "model": "dall-e-3",
+  "size": "1024x1024",
+  "quality": "hd"
+}
